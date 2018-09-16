@@ -22,7 +22,9 @@ namespace EnterpriseApp
             dataRetriever = new DataRetriever();
             PostList = new ObservableCollection<Post>();
 
-           
+            PostsLoaderIndicator.IsRunning = true;
+            PostsLoaderIndicator.IsVisible = true;
+
 
             PostListView.ItemsSource = PostList;
 
@@ -41,11 +43,11 @@ namespace EnterpriseApp
             {
                 PostList.Add(p);
 
-                /*if (PostList.Count > 10)
+                if (PostList.Count > 10)
                 {
                     PostsLoaderIndicator.IsRunning = false;
                     PostsLoaderIndicator.IsVisible = false;
-                }*/
+                }
             }
         }
 

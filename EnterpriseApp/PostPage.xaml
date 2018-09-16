@@ -5,7 +5,7 @@
     
     <ContentPage.Content>
         <StackLayout>
-            <ListView x:Name="PostListView" RowHeight="70" >
+            <ListView x:Name="PostListView" RowHeight="80" >
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>
@@ -19,7 +19,10 @@
                     </DataTemplate>
                 </ListView.ItemTemplate>
             </ListView>
-            
+
+            <ActivityIndicator IsRunning="{Binding Source={x:Reference PostListView}, Path=IsLoading}" AbsoluteLayout.LayoutFlags="PositionProportional"
+                               AbsoluteLayout.LayoutBounds="0,0,-1,-1" x:Name="PostsLoaderIndicator" VerticalOptions="Center" HorizontalOptions="Center"/>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
