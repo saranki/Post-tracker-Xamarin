@@ -34,3 +34,4 @@ C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\obj\De
 C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\EnterpriseApp.dll
 C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\EnterpriseApp.pdb
 C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\CommentPage.xaml.g.cs
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\ProfilePage.xaml.g.cs

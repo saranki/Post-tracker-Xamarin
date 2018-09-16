@@ -4,8 +4,8 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-  <application android:label="EnterpriseApp.Android" android:name="android.app.Application" android:allowBackup="true" android:icon="@mipmap/icon" android:debuggable="true">
-    <activity android:configChanges="orientation|screenSize" android:icon="@mipmap/icon" android:label="Post Tracker" android:theme="@style/MainTheme" android:name="md50972475c1bdb741b739bf84320e6cee1.MainActivity">
+  <application android:label="EnterpriseApp.Android" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/posticon" android:debuggable="true">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/posticon" android:label="Post Tracker" android:theme="@style/MainTheme" android:name="md50972475c1bdb741b739bf84320e6cee1.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

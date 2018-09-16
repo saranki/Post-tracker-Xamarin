@@ -10,7 +10,6 @@ D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\Enterpr
 C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Data\bin\Debug\netstandard2.0\EnterpriseApp.Data.deps.json
 C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Data\bin\Debug\netstandard2.0\EnterpriseApp.Data.dll
 C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Data\bin\Debug\netstandard2.0\EnterpriseApp.Data.pdb
-C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Data\obj\Debug\netstandard2.0\EnterpriseApp.Data.csprojAssemblyReference.cache
 C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Data\obj\Debug\netstandard2.0\EnterpriseApp.Data.csproj.CoreCompileInputs.cache
 C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Data\obj\Debug\netstandard2.0\EnterpriseApp.Data.AssemblyInfoInputs.cache
 C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Data\obj\Debug\netstandard2.0\EnterpriseApp.Data.AssemblyInfo.cs
