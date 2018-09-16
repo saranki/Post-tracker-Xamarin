@@ -1,0 +1,36 @@
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\bin\Debug\netstandard2.0\EnterpriseApp.deps.json
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\bin\Debug\netstandard2.0\EnterpriseApp.dll
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\bin\Debug\netstandard2.0\EnterpriseApp.pdb
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\bin\Debug\netstandard2.0\EnterpriseApp.Data.dll
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\bin\Debug\netstandard2.0\EnterpriseApp.Net.dll
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\bin\Debug\netstandard2.0\EnterpriseApp.Net.pdb
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\bin\Debug\netstandard2.0\EnterpriseApp.Data.pdb
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\EnterpriseApp.csprojAssemblyReference.cache
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\ListPage.xaml.g.cs
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\EnterpriseApp.csproj.CoreCompileInputs.cache
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\EnterpriseApp.AssemblyInfoInputs.cache
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\EnterpriseApp.AssemblyInfo.cs
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\EnterpriseApp.csproj.CopyComplete
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\EnterpriseApp.dll
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\EnterpriseApp.pdb
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\bin\Debug\netstandard2.0\EnterpriseApp.deps.json
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\bin\Debug\netstandard2.0\EnterpriseApp.dll
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\bin\Debug\netstandard2.0\EnterpriseApp.pdb
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\bin\Debug\netstandard2.0\EnterpriseApp.Data.dll
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\bin\Debug\netstandard2.0\EnterpriseApp.Net.dll
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\bin\Debug\netstandard2.0\EnterpriseApp.Net.pdb
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\bin\Debug\netstandard2.0\EnterpriseApp.Data.pdb
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\EnterpriseApp.csprojAssemblyReference.cache
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\PostPage.xaml.g.cs
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\EnterpriseApp.csproj.CoreCompileInputs.cache
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\EnterpriseApp.AssemblyInfoInputs.cache
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\EnterpriseApp.AssemblyInfo.cs
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\EnterpriseApp.csproj.CopyComplete
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\EnterpriseApp.dll
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\EnterpriseApp.pdb
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp\obj\Debug\netstandard2.0\CommentPage.xaml.g.cs

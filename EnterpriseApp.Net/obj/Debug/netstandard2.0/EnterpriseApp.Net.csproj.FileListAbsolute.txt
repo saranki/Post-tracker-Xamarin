@@ -1,0 +1,24 @@
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Net\bin\Debug\netstandard2.0\EnterpriseApp.Net.deps.json
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Net\bin\Debug\netstandard2.0\EnterpriseApp.Net.dll
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Net\bin\Debug\netstandard2.0\EnterpriseApp.Net.pdb
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Net\bin\Debug\netstandard2.0\EnterpriseApp.Data.dll
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Net\bin\Debug\netstandard2.0\EnterpriseApp.Data.pdb
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Net\obj\Debug\netstandard2.0\EnterpriseApp.Net.csprojAssemblyReference.cache
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Net\obj\Debug\netstandard2.0\EnterpriseApp.Net.csproj.CoreCompileInputs.cache
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Net\obj\Debug\netstandard2.0\EnterpriseApp.Net.AssemblyInfoInputs.cache
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Net\obj\Debug\netstandard2.0\EnterpriseApp.Net.AssemblyInfo.cs
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Net\obj\Debug\netstandard2.0\EnterpriseApp.Net.csproj.CopyComplete
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Net\obj\Debug\netstandard2.0\EnterpriseApp.Net.dll
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Net\obj\Debug\netstandard2.0\EnterpriseApp.Net.pdb
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Net\obj\Debug\netstandard2.0\EnterpriseApp.Net.csprojAssemblyReference.cache
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Net\obj\Debug\netstandard2.0\EnterpriseApp.Net.csproj.CoreCompileInputs.cache
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Net\obj\Debug\netstandard2.0\EnterpriseApp.Net.AssemblyInfoInputs.cache
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Net\obj\Debug\netstandard2.0\EnterpriseApp.Net.AssemblyInfo.cs
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Net\obj\Debug\netstandard2.0\EnterpriseApp.Net.dll
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Net\obj\Debug\netstandard2.0\EnterpriseApp.Net.pdb
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Net\bin\Debug\netstandard2.0\EnterpriseApp.Net.deps.json
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Net\bin\Debug\netstandard2.0\EnterpriseApp.Net.dll
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Net\bin\Debug\netstandard2.0\EnterpriseApp.Net.pdb
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Net\bin\Debug\netstandard2.0\EnterpriseApp.Data.dll
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Net\bin\Debug\netstandard2.0\EnterpriseApp.Data.pdb
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Net\obj\Debug\netstandard2.0\EnterpriseApp.Net.csproj.CopyComplete

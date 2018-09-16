@@ -1,0 +1,18 @@
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Data\bin\Debug\netstandard2.0\EnterpriseApp.Data.deps.json
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Data\bin\Debug\netstandard2.0\EnterpriseApp.Data.dll
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Data\bin\Debug\netstandard2.0\EnterpriseApp.Data.pdb
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Data\obj\Debug\netstandard2.0\EnterpriseApp.Data.csprojAssemblyReference.cache
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Data\obj\Debug\netstandard2.0\EnterpriseApp.Data.csproj.CoreCompileInputs.cache
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Data\obj\Debug\netstandard2.0\EnterpriseApp.Data.AssemblyInfoInputs.cache
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Data\obj\Debug\netstandard2.0\EnterpriseApp.Data.AssemblyInfo.cs
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Data\obj\Debug\netstandard2.0\EnterpriseApp.Data.dll
+D:\SEMESTER\2018 - 4th Year - 2nd Semester\EAD\Labs\Mobile Development-I\EnterpriseApp\EnterpriseApp.Data\obj\Debug\netstandard2.0\EnterpriseApp.Data.pdb
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Data\bin\Debug\netstandard2.0\EnterpriseApp.Data.deps.json
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Data\bin\Debug\netstandard2.0\EnterpriseApp.Data.dll
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Data\bin\Debug\netstandard2.0\EnterpriseApp.Data.pdb
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Data\obj\Debug\netstandard2.0\EnterpriseApp.Data.csprojAssemblyReference.cache
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Data\obj\Debug\netstandard2.0\EnterpriseApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Data\obj\Debug\netstandard2.0\EnterpriseApp.Data.AssemblyInfoInputs.cache
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Data\obj\Debug\netstandard2.0\EnterpriseApp.Data.AssemblyInfo.cs
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Data\obj\Debug\netstandard2.0\EnterpriseApp.Data.dll
+C:\Users\user\workspace\VisualStudio\Projects\EnterpriseApp\EnterpriseApp.Data\obj\Debug\netstandard2.0\EnterpriseApp.Data.pdb
