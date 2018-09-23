@@ -4,7 +4,7 @@
              x:Class="EnterpriseApp.CommentPage">
     <ContentPage.Content>
         <StackLayout>
-            <ListView x:Name="CommentListView" RowHeight="80">
+            <ListView x:Name="CommentListView" RowHeight="80" IsPullToRefreshEnabled="True" Refreshing="CommentListView_Refreshing">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>

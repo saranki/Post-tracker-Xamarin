@@ -5,11 +5,11 @@
     
     <ContentPage.Content>
         <StackLayout>
-            <Label FontAttributes="Bold" Grid.Column="0" Text="Basic info" Margin="4" FontSize="18" />
+            <Label FontAttributes="Bold"  Text="Basic info" Margin="4" FontSize="22" HorizontalTextAlignment="Center"/>
 
             <StackLayout Orientation="Horizontal">
-                <Label FontAttributes="Bold" Grid.Column="0" Text="Name:" Margin="4" FontSize="Large" />
-                <Label Grid.Column="1" Text="{Binding Name}" Margin="4" FontSize="Large" />
+                <Label FontAttributes="Bold" Grid.Column="1" Text="Name:" Margin="4" FontSize="Large" />
+                <Label Grid.Column="2" Text="{Binding Name}" Margin="4" FontSize="Large" />
             </StackLayout>
 
             <StackLayout Orientation="Horizontal">

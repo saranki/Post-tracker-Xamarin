@@ -1,17 +1,11 @@
 ﻿using EnterpriseApp.Data;
 using EnterpriseApp.Net;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
 namespace EnterpriseApp
 {
-	[XamlCompilation(XamlCompilationOptions.Compile)]
+    [XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class ProfilePage : ContentPage
 	{
         DataRetriever dataRetriever;
@@ -31,8 +25,16 @@ namespace EnterpriseApp
 
         private async void LoadAuthorDetails(int? id)
         {
-            Author author =  await dataRetriever.GetAuthorAsync(id);
-            BindingContext = author;
+            try
+            {
+                Author author = await dataRetriever.GetAuthorAsync(id);
+                BindingContext = author;
+            }
+            catch (System.Net.WebException e)
+            {
+                await DisplayAlert("Alert", "Please check your internet connection", "OK");
+                await Navigation.PopAsync();
+            }
         }
     }
 }

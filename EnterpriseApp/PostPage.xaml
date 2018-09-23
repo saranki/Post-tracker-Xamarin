@@ -5,7 +5,7 @@
     
     <ContentPage.Content>
         <StackLayout>
-            <ListView x:Name="PostListView" RowHeight="80" >
+            <ListView x:Name="PostListView" RowHeight="80"  IsPullToRefreshEnabled="True" Refreshing="PostListView_Refreshing">
                 <ListView.ItemTemplate>
                     <DataTemplate>
                         <ViewCell>

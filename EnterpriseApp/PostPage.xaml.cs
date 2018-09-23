@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using Xamarin.Forms;
 
+
 namespace EnterpriseApp
 {
     public partial class PostPage : ContentPage
@@ -36,19 +37,29 @@ namespace EnterpriseApp
         private async void LoadData()
         {
             PostList.Clear();
+            try {
+                List<Post> posts = await dataRetriever.GetPostsAsync();
 
-            List<Post> posts = await dataRetriever.GetPostsAsync();
-
-            foreach (Post p in posts)
-            {
-                PostList.Add(p);
-
-                if (PostList.Count > 10)
+                foreach (Post p in posts)
                 {
-                    PostsLoaderIndicator.IsRunning = false;
-                    PostsLoaderIndicator.IsVisible = false;
+                    PostList.Add(p);
+
+                    if (PostList.Count > 10)
+                    {
+                        PostsLoaderIndicator.IsRunning = false;
+                        PostsLoaderIndicator.IsVisible = false;
+                    }
                 }
             }
+            catch (System.Net.WebException e)
+            {
+                PostsLoaderIndicator.IsRunning = false;
+                PostsLoaderIndicator.IsVisible = false;
+
+                await DisplayAlert("Alert", "Please check your internet connection", "OK");
+
+            }
+            
         }
 
         private void PostListView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
@@ -60,6 +71,12 @@ namespace EnterpriseApp
             }
             //Clear Selection
             PostListView.SelectedItem = null;
+        }
+
+        private void PostListView_Refreshing(object sender, EventArgs e)
+        {
+            LoadData();
+            PostListView.EndRefresh();
         }
     }
 }

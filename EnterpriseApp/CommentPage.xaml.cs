@@ -18,6 +18,7 @@ namespace EnterpriseApp
 
         DataRetriever dataRetriever;
         public int? authorId;
+        static int? postId;
 
         public CommentPage()
         {
@@ -40,7 +41,7 @@ namespace EnterpriseApp
             CommentListView.ItemsSource = CommentList;
 
             CommentListView.ItemSelected += CommentListView_ItemSelected;
-
+            postId = post.Id;
             LoadComments(post.Id);
 
             AddToolbarItem();
@@ -59,25 +60,48 @@ namespace EnterpriseApp
 
         private void OnAuthorIconClicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new ProfilePage(authorId));
+            try
+            {
+                Navigation.PushAsync(new ProfilePage(authorId));
+            }
+            catch (System.Net.WebException ex)
+            {
+                CommentsLoaderIndicator.IsRunning = false;
+                CommentsLoaderIndicator.IsVisible = false;
+
+                DisplayAlert("Alert", "Please check your internet connection", "OK");
+
+            }
+
         }
 
         private async void LoadComments(int? id)
         {
             CommentList.Clear();
 
-            List<Comment> comments = await dataRetriever.GetCommentAsync(id);
-
-            foreach (Comment c in comments)
+            try
             {
-                CommentList.Add(c);
+                List<Comment> comments = await dataRetriever.GetCommentAsync(id);
 
-                if (CommentList.Count > 0)
+                foreach (Comment c in comments)
                 {
-                    CommentsLoaderIndicator.IsRunning = false;
-                    CommentsLoaderIndicator.IsVisible = false;
+                    CommentList.Add(c);
+
+                    if (CommentList.Count > 0)
+                    {
+                        CommentsLoaderIndicator.IsRunning = false;
+                        CommentsLoaderIndicator.IsVisible = false;
+                    }
                 }
             }
+            catch (System.Net.WebException e)
+            {
+                CommentsLoaderIndicator.IsRunning = false;
+                CommentsLoaderIndicator.IsVisible = false;
+                await DisplayAlert("Alert", "Please check your internet connection", "OK");
+
+            }
+            
         }
 
         private void CommentListView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
@@ -92,6 +116,12 @@ namespace EnterpriseApp
 
             //Clear Selection
             CommentListView.SelectedItem = null;
+        }
+
+        private void CommentListView_Refreshing(object sender, EventArgs e)
+        {
+            LoadComments(postId);
+            CommentListView.EndRefresh();
         }
     }
 }
